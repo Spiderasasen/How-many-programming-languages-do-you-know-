@@ -1,17 +1,26 @@
 [
   "A#",
-  "Ada",
+  {
+    "name": "Ada",
+    "logo": "Ada.png"
+  },
   "ALGOL",
   "ALGOL 58",
   "ALGOL 60",
   "ALGOL 68",
   "APL",
   "AppleScript",
-  "Assembly",
+  {
+    "name": "Assembly",
+    "logo": "assembly.png"
+  },
   "AWK",
   "B",
   "Ballerina",
-  "Bash",
+  {
+    "name": "Bash",
+    "logo": "bash.png"
+  },
   "BCPL",
   "Befunge",
   "BETA",
