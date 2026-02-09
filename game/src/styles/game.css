@@ -1,0 +1,71 @@
+/* Main game container */
+.gameScreen {
+    height: 100vh;
+    width: 100%;
+    background: #1e293b; /* deep slate blue */
+    color: #f1f5f9;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    padding: 30px;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+/* Score + streak section */
+.gameScreen > div:first-child {
+    display: flex;
+    gap: 40px;
+    font-size: 1.2rem;
+    font-weight: bold;
+}
+
+/* Main game area */
+.gameScreen img {
+    width: 180px;
+    height: 180px;
+    object-fit: contain;
+    background: #ffffff;
+    padding: 20px;
+    border-radius: 12px;
+    box-shadow: 0 6px 15px rgba(0,0,0,0.25);
+    margin-bottom: 25px;
+    color: black;
+}
+
+/* Answer buttons container */
+.gameScreen > div:nth-child(2) > div {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 15px;
+    width: 350px;
+}
+
+/* Answer buttons */
+.gameScreen button {
+    background: #0f172a;
+    color: white;
+    border: none;
+    padding: 12px;
+    border-radius: 8px;
+    font-size: 1rem;
+    cursor: pointer;
+    transition: 0.2s ease;
+}
+
+.gameScreen button:hover {
+    background: #1e293b;
+    transform: scale(1.05);
+}
+
+/* Bottom buttons (Stop + Submit) */
+.gameScreen > div:last-child {
+    display: flex;
+    gap: 20px;
+}
+
+.gameScreen > div:last-child button {
+    padding: 12px 20px;
+    font-size: 1rem;
+}

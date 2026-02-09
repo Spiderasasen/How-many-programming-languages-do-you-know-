@@ -1,9 +1,10 @@
 import {useState, useEffect} from 'react'
+import "../styles/game.css"
 
 function Game(){
     // vars for the game
-    const {streak, setStreak} = useState(0);
-    const {score, setScore} = useState(0);
+    const [streak, setStreak] = useState(0);
+    const [score, setScore] = useState(0);
 
     return(
         <div className="gameScreen">
