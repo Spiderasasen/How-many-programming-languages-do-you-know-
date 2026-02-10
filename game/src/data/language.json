@@ -1,20 +1,40 @@
 [
-  "A#",
+  {
+    "name": "A#",
+    "logo": "a_sharp.png"
+  },
   {
     "name": "Ada",
     "logo": "Ada.png"
   },
-  "ALGOL",
-  "ALGOL 58",
-  "ALGOL 60",
-  "ALGOL 68",
-  "APL",
-  "AppleScript",
+  {
+    "name": "ALGOL 58",
+    "logo": "ALGOL58.png"
+  },
+  {
+    "name": "ALGOL 60",
+    "logo": "ALGOL60.png"
+  },
+  {
+    "name": "ALGOL 68",
+    "logo": "ALGOL68.png"
+  },
+  {
+    "name": "APL",
+    "logo": "APL.svg"
+  },
+  {
+    "name": "AppleScript",
+    "logo": "AppleScript.png"
+  },
   {
     "name": "Assembly",
     "logo": "assembly.png"
   },
-  "AWK",
+  {
+    "name": "AWK",
+    "logo": "AWK.png"
+  },
   "B",
   "Ballerina",
   {
@@ -27,17 +47,33 @@
   "Bliss",
   "Boo",
   "Brainfuck",
-  "C",
-  "C++",
-  "C#",
+  {
+    "name": "C",
+    "logo": "c.png"
+  },
+  {
+    "name": "C++",
+    "logo": "cpp.png"
+  },
+  {
+    "name": "C#",
+    "logo": "cs.png"
+  },
   "Caml",
   "Chapel",
   "Clojure",
-  "COBOL",
+  {
+    "name": "COBOL",
+    "logo": "cbl.png"
+  },
   "CoffeeScript",
   "ColdFusion",
   "Common Lisp",
   "Crystal",
+  {
+    "name": "CSS",
+    "logo": "css.png"
+  },
   "Curry",
   "D",
   "Dart",
@@ -49,6 +85,10 @@
   "Elm",
   "Emacs Lisp",
   "Erlang",
+  {
+    "name": "F",
+    "logo": "f.png"
+  },
   "F#",
   "F*",
   "Forth",
@@ -56,12 +96,18 @@
   "FoxPro",
   "GAMS",
   "GDScript",
-  "Go",
+  {
+    "name": "Go",
+    "logo": "go.png"
+  },
   "Groovy",
   "Hack",
   "Haskell",
   "Haxe",
-  "HTML",
+  {
+   "name": "HTML",
+    "logo": "html.png"
+  },
   "Icon",
   "IDL",
   "Inform",
@@ -71,13 +117,26 @@
   "J++",
   "J#",
   "Jade",
-  "Java",
-  "JavaScript",
+  {
+    "name": "Java",
+    "logo": "java.png"
+  },
+  {
+   "name": "JavaScript",
+    "logo": "js.png"
+  },
   "JCL",
   "JOSS",
+  {
+    "name": "JSON",
+    "logo": "json.png"
+  },
   "Julia",
   "K",
-  "Kotlin",
+  {
+    "name": "Kotlin",
+    "logo": "kt.png"
+  },
   "LabVIEW",
   "Ladder Logic",
   "Lisp",
@@ -112,19 +171,37 @@
   "PowerShell",
   "Prolog",
   "PureBasic",
-  "Python",
+  {
+    "name": "Python",
+    "logo": "py.png"
+  },
   "Q",
-  "R",
+  {
+    "name": "R",
+    "logo": "r.png"
+  },
   "Racket",
   "Raku",
-  "React",
+  {
+    "name": "React",
+    "logo": "react.svg"
+  },
   "REBOL",
   "Red",
   "RPG",
-  "Ruby",
-  "Rust",
+  {
+    "name": "Ruby",
+    "logo": "rb.png"
+  },
+  {
+    "name": "Rust",
+    "logo": "rs.png"
+  },
   "SAS",
-  "Scala",
+  {
+    "name": "Scala",
+    "logo": "scala.png"
+  },
   "Scheme",
   "Scratch",
   "Sed",
@@ -135,14 +212,23 @@
   "Solidity",
   "SPARK",
   "SPSS",
-  "SQL",
+  {
+    "name": "SQL",
+    "logo": "sql.png"
+  },
   "Squirrel",
   "Standard ML",
-  "Swift",
+  {
+    "name": "Swift",
+    "logo": "swift.png"
+  },
   "Tcl",
   "TeX",
   "Transact-SQL",
-  "TypeScript",
+  {
+    "name": "TypeScript",
+    "logo": "tsx.png"
+  },
   "UnrealScript",
   "V",
   "Vala",
@@ -153,6 +239,10 @@
   "Visual FoxPro",
   "Wolfram",
   "X++",
+  {
+    "name": "XML",
+    "logo": "xml.png"
+  },
   "Xojo",
   "XSLT",
   "Yorick",
