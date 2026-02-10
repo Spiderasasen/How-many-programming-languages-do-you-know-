@@ -35,8 +35,14 @@
     "name": "AWK",
     "logo": "AWK.png"
   },
-  "B",
-  "Ballerina",
+  {
+    "name": "B",
+    "logo": "B.png"
+  },
+  {
+    "name": "Ballerina",
+    "logo": "Ballerina.jpeg"
+  },
   {
     "name": "Bash",
     "logo": "bash.png"
@@ -66,7 +72,10 @@
     "name": "COBOL",
     "logo": "cbl.png"
   },
-  "CoffeeScript",
+  {
+    "name": "CoffeeScript",
+    "logo": "coffee.png"
+  },
   "ColdFusion",
   "Common Lisp",
   "Crystal",
@@ -75,16 +84,25 @@
     "logo": "css.png"
   },
   "Curry",
-  "D",
+  {
+    "name": "D",
+    "logo": "d.png"
+  },
   "Dart",
   "Delphi",
   "Dylan",
   "E",
   "Eiffel",
-  "Elixir",
+  {
+    "name": "Elixir",
+    "logo": "ex.png"
+  },
   "Elm",
   "Emacs Lisp",
-  "Erlang",
+  {
+    "name": "Erlang",
+    "logo": "erlang.png"
+  },
   {
     "name": "F",
     "logo": "f.png"
@@ -100,7 +118,10 @@
     "name": "Go",
     "logo": "go.png"
   },
-  "Groovy",
+  {
+    "name": "Groovy",
+    "logo": "groovy.png"
+  },
   "Hack",
   "Haskell",
   "Haxe",
@@ -131,7 +152,10 @@
     "name": "JSON",
     "logo": "json.png"
   },
-  "Julia",
+  {
+    "name": "Julia",
+    "logo": "jl.png"
+  },
   "K",
   {
     "name": "Kotlin",
