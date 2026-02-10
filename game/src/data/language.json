@@ -47,12 +47,30 @@
     "name": "Bash",
     "logo": "bash.png"
   },
-  "BCPL",
-  "Befunge",
-  "BETA",
-  "Bliss",
-  "Boo",
-  "Brainfuck",
+  {
+    "name": "BCPL",
+    "logo": "BCPL.png"
+  },
+  {
+    "name": "Befunge",
+    "logo": "befunge.png"
+  },
+  {
+    "name": "BETA",
+    "logo": "beta.png"
+  },
+  {
+    "name": "Bliss",
+    "logo": "bliss"
+  },
+  {
+    "name": "Boo",
+    "logo": "boo.png"
+  },
+  {
+    "name": "Brainfuck",
+    "logo": "brainfuck.png"
+  },
   {
     "name": "C",
     "logo": "c.png"
@@ -65,9 +83,18 @@
     "name": "C#",
     "logo": "cs.png"
   },
-  "Caml",
-  "Chapel",
-  "Clojure",
+  {
+    "name": "Caml",
+    "logo": "caml.png"
+  },
+  {
+    "name": "Chapel",
+    "logo": "Chapel.png"
+  },
+  {
+    "name": "Clojure",
+    "logo": "clj.png"
+  },
   {
     "name": "COBOL",
     "logo": "cbl.png"
@@ -76,29 +103,62 @@
     "name": "CoffeeScript",
     "logo": "coffee.png"
   },
-  "ColdFusion",
-  "Common Lisp",
-  "Crystal",
+  {
+    "name": "ColdFusion",
+    "logo": "coldfusion.png"
+  },
+  {
+    "name": "Common Lisp",
+    "logo": "clisp.png"
+  },
+  {
+    "name": "Crystal",
+    "logo": "crystal.svg"
+  },
   {
     "name": "CSS",
     "logo": "css.png"
   },
-  "Curry",
+  {
+    "name": "Curry",
+    "logo": "curry.png"
+  },
   {
     "name": "D",
     "logo": "d.png"
   },
-  "Dart",
-  "Delphi",
-  "Dylan",
-  "E",
-  "Eiffel",
+  {
+    "name": "Dart",
+    "logo": "dart.png"
+  },
+  {
+    "name": "Delphi",
+    "logo": "Delphi.svg"
+  },
+  {
+    "name": "Dylan",
+    "logo": "Dylan.png"
+  },
+  {
+    "name": "E",
+    "logo": "E.png"
+  },
+  {
+    "name": "Eiffel",
+    "logo": "eiffel.png"
+  },
   {
     "name": "Elixir",
     "logo": "ex.png"
   },
-  "Elm",
-  "Emacs Lisp",
+  {
+    "name": "Elm",
+    "logo": "elm.png"
+  },
+  {
+    "name": "Emacs Lisp",
+    "logo": "emacs.png"
+  },
   {
     "name": "Erlang",
     "logo": "erlang.png"
