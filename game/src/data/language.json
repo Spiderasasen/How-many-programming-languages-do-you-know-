@@ -165,15 +165,36 @@
   },
   {
     "name": "F",
+    "logo": "Real_F.png"
+  },
+  {
+    "name": "F#",
+    "logo": "fs.png"
+  },
+  {
+    "name": "F*",
+    "logo": "F_.png"
+  },
+  {
+    "name": "Forth",
+    "logo": "forth.png"
+  },
+  {
+    "name": "Fortran",
     "logo": "f.png"
   },
-  "F#",
-  "F*",
-  "Forth",
-  "Fortran",
-  "FoxPro",
-  "GAMS",
-  "GDScript",
+  {
+    "name": "FoxPro",
+    "logo": "Foxpro-icon.png"
+  },
+  {
+    "name": "GAMS",
+    "logo": "GAMS.png"
+  },
+  {
+    "name": "GoDot Script",
+    "logo": "GoDot.svg"
+  },
   {
     "name": "Go",
     "logo": "go.png"
@@ -182,22 +203,58 @@
     "name": "Groovy",
     "logo": "groovy.png"
   },
-  "Hack",
-  "Haskell",
-  "Haxe",
+  {
+    "name": "Hack",
+    "logo": "Hack.png"
+  },
+  {
+    "name": "Haskell",
+    "logo": "hs.png"
+  },
+  {
+    "name": "Haxe",
+    "logo": "Haxe_logo.svg"
+  },
   {
    "name": "HTML",
     "logo": "html.png"
   },
-  "Icon",
-  "IDL",
-  "Inform",
-  "INTERCAL",
-  "Io",
-  "J",
-  "J++",
-  "J#",
-  "Jade",
+  {
+    "name": "Icon",
+    "logo": "Icon.png"
+  },
+  {
+    "name": "IDL",
+    "logo": "idl.png"
+  },
+  {
+    "name": "Inform",
+    "logo": "inform.png"
+  },
+  {
+    "name": "INTERCAL",
+    "logo": "Int.png"
+  },
+  {
+    "name": "Io",
+    "logo": "Io.png"
+  },
+  {
+    "name": "J",
+    "logo": "J.png"
+  },
+  {
+    "name": "J++",
+    "logo": "J++.png"
+  },
+  {
+    "name": "J#",
+    "logo": "J#.jpg"
+  },
+  {
+    "name": "Jade",
+    "logo": "jade.png"
+  },
   {
     "name": "Java",
     "logo": "java.png"
@@ -206,8 +263,14 @@
    "name": "JavaScript",
     "logo": "js.png"
   },
-  "JCL",
-  "JOSS",
+  {
+    "name": "JCL",
+    "logo": "jcl.png"
+  },
+  {
+    "name": "JOSS",
+    "logo": "Joss.png"
+  },
   {
     "name": "JSON",
     "logo": "json.png"
@@ -216,7 +279,6 @@
     "name": "Julia",
     "logo": "jl.png"
   },
-  "K",
   {
     "name": "Kotlin",
     "logo": "kt.png"
