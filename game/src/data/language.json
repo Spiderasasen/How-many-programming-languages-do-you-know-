@@ -283,10 +283,18 @@
     "name": "Kotlin",
     "logo": "kt.png"
   },
-  "LabVIEW",
-  "Ladder Logic",
-  "Lisp",
-  "Logo",
+  {
+    "name": "LabView",
+    "logo": "labview.png"
+  },
+  {
+    "name": "Ladder Logic",
+    "logo": "Ladder_diagram.png"
+  },
+  {
+    "name": "Lisp",
+    "logo": "lisp.jpg"
+  },
   "Lua",
   "M4",
   "MATLAB",
